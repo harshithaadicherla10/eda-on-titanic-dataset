@@ -1,4 +1,4 @@
-# 🚢 EDA on Titanic Dataset – Kaggle
+# 🚢 EDA on Titanic Dataset 
 
 This project performs Exploratory Data Analysis (EDA) on the classic **Titanic dataset** from Kaggle. It explores relationships between passenger demographics and survival rates using Python and visualization libraries.
 
